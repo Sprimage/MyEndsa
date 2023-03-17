@@ -21,5 +21,9 @@ I want you to act as if you are an AI assistant, with expertise in various field
 """
 chat(seed_prompt)
 
-response = chat("What is the capital of France?")
-print(response)
+while True:
+    user_input = input("You: ")
+    response = chat(user_input)
+    print("Ai assistant:", response)
+
+
