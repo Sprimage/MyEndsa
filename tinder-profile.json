@@ -1,0 +1,818 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "data": {
+        "_id": "620ec43a88a9a701008ed48b",
+        "age_filter_max": 30,
+        "age_filter_min": 18,
+        "bio": "",
+        "birth_date": "1999-08-28T00:00:00.000Z",
+        "create_date": "2022-02-17T21:55:06.356Z",
+        "crm_id": "64d539defca7d817c60cc92a74a665b2f09e1e1f",
+        "pos_info": {
+            "country": {
+                "name": "Canada",
+                "cc": "CA",
+                "alpha3": "CAN"
+            },
+            "timezone": "America/Regina"
+        },
+        "discoverable": false,
+        "distance_filter": 32,
+        "global_mode": {
+            "is_enabled": false,
+            "display_language": "en"
+        },
+        "auto_expansion": {
+            "age_toggle": false,
+            "distance_toggle": true
+        },
+        "gender": 0,
+        "gender_filter": 1,
+        "show_gender_on_profile": true,
+        "name": "Tayo",
+        "photos": [
+            {
+                "id": "b757bc5b-934d-47fe-ae1e-64080a4cee1c",
+                "crop_info": {
+                    "user": {
+                        "width_pct": 1,
+                        "x_offset_pct": 0,
+                        "height_pct": 0.8,
+                        "y_offset_pct": 0.1885960681317374
+                    },
+                    "algo": {
+                        "width_pct": 0.41205737823620436,
+                        "x_offset_pct": 0.17511958095710725,
+                        "height_pct": 0.451116748964414,
+                        "y_offset_pct": 0.3630376936495304
+                    },
+                    "processed_by_bullseye": true,
+                    "user_customized": false,
+                    "faces_count": 1
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/original_b757bc5b-934d-47fe-ae1e-64080a4cee1c.jpeg",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_b757bc5b-934d-47fe-ae1e-64080a4cee1c.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_b757bc5b-934d-47fe-ae1e-64080a4cee1c.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_b757bc5b-934d-47fe-ae1e-64080a4cee1c.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_b757bc5b-934d-47fe-ae1e-64080a4cee1c.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "assets": [],
+                "media_type": "image"
+            },
+            {
+                "id": "ce846a4b-9032-478a-9a0f-aead39684ecc",
+                "crop_info": {
+                    "processed_by_bullseye": true,
+                    "user_customized": false
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/original_ce846a4b-9032-478a-9a0f-aead39684ecc.jpeg",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_ce846a4b-9032-478a-9a0f-aead39684ecc.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_ce846a4b-9032-478a-9a0f-aead39684ecc.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_ce846a4b-9032-478a-9a0f-aead39684ecc.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_ce846a4b-9032-478a-9a0f-aead39684ecc.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "assets": [],
+                "media_type": "image"
+            },
+            {
+                "id": "fd22d453-ca1b-44da-b8b9-ab42ed00cda3",
+                "crop_info": {
+                    "processed_by_bullseye": true,
+                    "user_customized": false
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/original_fd22d453-ca1b-44da-b8b9-ab42ed00cda3.jpeg",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_fd22d453-ca1b-44da-b8b9-ab42ed00cda3.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_fd22d453-ca1b-44da-b8b9-ab42ed00cda3.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_fd22d453-ca1b-44da-b8b9-ab42ed00cda3.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_fd22d453-ca1b-44da-b8b9-ab42ed00cda3.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "assets": [],
+                "media_type": "image"
+            },
+            {
+                "id": "f435fa83-5c90-49f8-93f0-8fdbe67770ac",
+                "crop_info": {
+                    "user": {
+                        "width_pct": 1,
+                        "x_offset_pct": 0,
+                        "height_pct": 0.8,
+                        "y_offset_pct": 0
+                    },
+                    "algo": {
+                        "width_pct": 0.12618548437021676,
+                        "x_offset_pct": 0.22710418649949132,
+                        "height_pct": 0.11972120063845065,
+                        "y_offset_pct": 0.2972001268528402
+                    },
+                    "processed_by_bullseye": true,
+                    "user_customized": false,
+                    "faces_count": 1
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/original_f435fa83-5c90-49f8-93f0-8fdbe67770ac.jpeg",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_f435fa83-5c90-49f8-93f0-8fdbe67770ac.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_f435fa83-5c90-49f8-93f0-8fdbe67770ac.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_f435fa83-5c90-49f8-93f0-8fdbe67770ac.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_f435fa83-5c90-49f8-93f0-8fdbe67770ac.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "assets": [],
+                "media_type": "image"
+            },
+            {
+                "id": "3ff81eeb-3258-45b4-a6eb-9c3f0a338018",
+                "crop_info": {
+                    "user": {
+                        "width_pct": 1,
+                        "x_offset_pct": 0,
+                        "height_pct": 0.8,
+                        "y_offset_pct": 0
+                    },
+                    "algo": {
+                        "width_pct": 0.703812110191211,
+                        "x_offset_pct": 0.16698613399639725,
+                        "height_pct": 0.6803644683584571,
+                        "y_offset_pct": 0
+                    },
+                    "processed_by_bullseye": true,
+                    "user_customized": false,
+                    "faces_count": 1
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/original_3ff81eeb-3258-45b4-a6eb-9c3f0a338018.jpeg",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_3ff81eeb-3258-45b4-a6eb-9c3f0a338018.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_3ff81eeb-3258-45b4-a6eb-9c3f0a338018.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_3ff81eeb-3258-45b4-a6eb-9c3f0a338018.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_3ff81eeb-3258-45b4-a6eb-9c3f0a338018.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "assets": [],
+                "media_type": "image"
+            },
+            {
+                "id": "c39aaffd-27a3-41a5-bf4a-43a1bda81f34",
+                "crop_info": {
+                    "processed_by_bullseye": true,
+                    "user_customized": false
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/1080x1350_c39aaffd-27a3-41a5-bf4a-43a1bda81f34.webp",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_c39aaffd-27a3-41a5-bf4a-43a1bda81f34.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_c39aaffd-27a3-41a5-bf4a-43a1bda81f34.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_c39aaffd-27a3-41a5-bf4a-43a1bda81f34.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_c39aaffd-27a3-41a5-bf4a-43a1bda81f34.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "processedVideos": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_c39aaffd-27a3-41a5-bf4a-43a1bda81f34_h265.mp4",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/480x600_c39aaffd-27a3-41a5-bf4a-43a1bda81f34_h265.mp4",
+                        "height": 600,
+                        "width": 480
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_c39aaffd-27a3-41a5-bf4a-43a1bda81f34_h265.mp4",
+                        "height": 400,
+                        "width": 320
+                    }
+                ],
+                "assets": [],
+                "media_type": "video"
+            },
+            {
+                "id": "2baf34ac-3be7-4c05-903c-e35cb54eb105",
+                "crop_info": {
+                    "user": {
+                        "width_pct": 1,
+                        "x_offset_pct": 0,
+                        "height_pct": 0.8,
+                        "y_offset_pct": 0
+                    },
+                    "algo": {
+                        "width_pct": 0.17115936882328242,
+                        "x_offset_pct": 0.29924144184915347,
+                        "height_pct": 0.17557814343366773,
+                        "y_offset_pct": 0.012681189645081758
+                    },
+                    "processed_by_bullseye": true,
+                    "user_customized": false,
+                    "faces_count": 1
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/original_2baf34ac-3be7-4c05-903c-e35cb54eb105.jpeg",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_2baf34ac-3be7-4c05-903c-e35cb54eb105.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_2baf34ac-3be7-4c05-903c-e35cb54eb105.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_2baf34ac-3be7-4c05-903c-e35cb54eb105.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_2baf34ac-3be7-4c05-903c-e35cb54eb105.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "assets": [],
+                "media_type": "image"
+            },
+            {
+                "id": "01175c4d-b0e3-4f81-a714-c0141370d078",
+                "crop_info": {
+                    "user": {
+                        "width_pct": 1,
+                        "x_offset_pct": 0,
+                        "height_pct": 0.8,
+                        "y_offset_pct": 0.042589957043528553
+                    },
+                    "algo": {
+                        "width_pct": 0.5455638173967601,
+                        "x_offset_pct": 0.18690368048846723,
+                        "height_pct": 0.4936182449758053,
+                        "y_offset_pct": 0.19578083455562592
+                    },
+                    "processed_by_bullseye": true,
+                    "user_customized": false,
+                    "faces_count": 1
+                },
+                "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/original_01175c4d-b0e3-4f81-a714-c0141370d078.jpeg",
+                "fbId": "directupload",
+                "processedFiles": [
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/640x800_01175c4d-b0e3-4f81-a714-c0141370d078.jpg",
+                        "height": 800,
+                        "width": 640
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/320x400_01175c4d-b0e3-4f81-a714-c0141370d078.jpg",
+                        "height": 400,
+                        "width": 320
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/172x216_01175c4d-b0e3-4f81-a714-c0141370d078.jpg",
+                        "height": 216,
+                        "width": 172
+                    },
+                    {
+                        "url": "https://images-ssl.gotinder.com/620ec43a88a9a701008ed48b/84x106_01175c4d-b0e3-4f81-a714-c0141370d078.jpg",
+                        "height": 106,
+                        "width": 84
+                    }
+                ],
+                "assets": [],
+                "media_type": "image"
+            }
+        ],
+        "photos_processing": false,
+        "photo_optimizer_enabled": true,
+        "ping_time": "2023-03-19T09:44:09.563Z",
+        "jobs": [
+            {
+                "company": {
+                    "displayed": true,
+                    "name": "Indiehacking LLC"
+                },
+                "title": {
+                    "displayed": true,
+                    "name": "SDE"
+                }
+            }
+        ],
+        "schools": [
+            {
+                "name": "University of Regina",
+                "displayed": true
+            }
+        ],
+        "badges": [
+            {
+                "type": "selfie_not_verified"
+            }
+        ],
+        "phone_id": "16395906695",
+        "interested_in": [
+            1
+        ],
+        "pos": {
+            "lat": 50.407,
+            "lon": -104.52
+        },
+        "billing_info": {
+            "supported_payment_methods": [
+                "Mastercard",
+                "Visa"
+            ]
+        },
+        "autoplay_video": "always",
+        "top_picks_discoverable": true,
+        "photo_tagging_enabled": false,
+        "city": {
+            "name": "Regina",
+            "region": "SK",
+            "coords": {
+                "lat": 50.4,
+                "lon": -104.6
+            }
+        },
+        "show_same_orientation_first": {
+            "checked": false,
+            "should_show_option": false
+        },
+        "sexual_orientations": [
+            {
+                "id": "str",
+                "name": "Straight"
+            }
+        ],
+        "recommended_sort_discoverable": true,
+        "selfie_verification": "not_verified",
+        "noonlight_protected": false,
+        "sync_swipe_enabled": true,
+        "sparks_quizzes": [
+            {
+                "quizzes": [
+                    {
+                        "id": "qz_1",
+                        "name": "Going Out",
+                        "answers": []
+                    },
+                    {
+                        "id": "qz_2",
+                        "name": "My Weekends",
+                        "answers": []
+                    },
+                    {
+                        "id": "qz_3",
+                        "name": "Me + My Phone",
+                        "answers": []
+                    }
+                ],
+                "section_id": "qz_section_1",
+                "section_name": "Ask Me About"
+            }
+        ],
+        "selected_descriptors": [
+            {
+                "id": "de_29",
+                "name": "Looking for",
+                "type": "choice_selector_v1",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/looking_for@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/looking_for@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/looking_for@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/looking_for@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_0",
+                "section_name": "Relationship Goals",
+                "choice_selections": [
+                    {
+                        "id": "5",
+                        "name": "New friends",
+                        "style": "turquoise",
+                        "emoji": "👋",
+                        "icon_urls": [
+                            {
+                                "url": "https://static-assets.gotinder.com/icons/descriptors/relationship_intent_wave@1x.png",
+                                "quality": "1x",
+                                "width": 50,
+                                "height": 50
+                            },
+                            {
+                                "url": "https://static-assets.gotinder.com/icons/descriptors/relationship_intent_wave@2x.png",
+                                "quality": "2x",
+                                "width": 100,
+                                "height": 100
+                            },
+                            {
+                                "url": "https://static-assets.gotinder.com/icons/descriptors/relationship_intent_wave@3x.png",
+                                "quality": "3x",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "de_9",
+                "name": "Education",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/education@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/education@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/education@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/education@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_4",
+                "section_name": "Basics",
+                "choice_selections": [
+                    {
+                        "id": "2",
+                        "name": "In College"
+                    }
+                ]
+            },
+            {
+                "id": "de_2",
+                "name": "Communication Style",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/communication_style@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/communication_style@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/communication_style@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/communication_style@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_4",
+                "section_name": "Basics",
+                "choice_selections": [
+                    {
+                        "id": "5",
+                        "name": "Better in person"
+                    }
+                ]
+            },
+            {
+                "id": "de_3",
+                "name": "Pets",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/pets@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/pets@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/pets@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/pets@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle",
+                "choice_selections": [
+                    {
+                        "id": "1",
+                        "name": "Dog"
+                    }
+                ]
+            },
+            {
+                "id": "de_22",
+                "name": "Drinking",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle",
+                "choice_selections": [
+                    {
+                        "id": "8",
+                        "name": "Not for me"
+                    }
+                ]
+            },
+            {
+                "id": "de_11",
+                "name": "Smoking",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/smoking@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/smoking@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/smoking@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/smoking@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle",
+                "choice_selections": [
+                    {
+                        "id": "1",
+                        "name": "Social smoker"
+                    }
+                ]
+            },
+            {
+                "id": "de_10",
+                "name": "Workout",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/workout@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/workout@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/workout@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/workout@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle",
+                "choice_selections": [
+                    {
+                        "id": "5",
+                        "name": "Often"
+                    }
+                ]
+            },
+            {
+                "id": "de_4",
+                "name": "Social Media",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/social_media@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/social_media@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/social_media@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/social_media@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle",
+                "choice_selections": [
+                    {
+                        "id": "4",
+                        "name": "Passive scroller"
+                    }
+                ]
+            },
+            {
+                "id": "de_17",
+                "name": "Sleeping Habits",
+                "type": "single_selection_set",
+                "visibility": "public",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/sleeping_habits@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/sleeping_habits@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/sleeping_habits@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/sleeping_habits@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle",
+                "choice_selections": [
+                    {
+                        "id": "3",
+                        "name": "In a spectrum"
+                    }
+                ]
+            }
+        ],
+        "preference_filters": {},
+        "mm_enabled": true,
+        "user_prompts": {
+            "section_name": "Prompts",
+            "max_prompts": 3,
+            "prompts": []
+        }
+    }
+}

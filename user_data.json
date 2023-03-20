@@ -1,0 +1,386 @@
+{
+    "type": "user",
+    "user": {
+        "_id": "6412a0ae62b01f0100330922",
+        "badges": [
+            {
+                "type": "selfie_verified"
+            }
+        ],
+        "bio": "Stfu with hey Alexa jokes",
+        "birth_date": "2004-03-23T09:44:21.471Z",
+        "name": "Alexa",
+        "gender": -1,
+        "jobs": [
+            {
+                "company": {
+                    "name": "Pureffect"
+                },
+                "title": {
+                    "name": "Circuit board manufacturer"
+                }
+            }
+        ],
+        "schools": [],
+        "show_gender_on_profile": false,
+        "recently_active": false,
+        "selected_descriptors": [
+            {
+                "id": "de_1",
+                "name": "Zodiac",
+                "prompt": "What is your zodiac sign?",
+                "type": "single_selection_set",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/astrological_sign@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/astrological_sign@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/astrological_sign@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/astrological_sign@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "choice_selections": [
+                    {
+                        "id": "11",
+                        "name": "Scorpio"
+                    }
+                ],
+                "section_id": "sec_4",
+                "section_name": "Basics"
+            },
+            {
+                "id": "de_13",
+                "name": "Personality Type",
+                "prompt": "What’s your Personality Type?",
+                "type": "single_selection_set",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/mbti@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/mbti@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/mbti@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/mbti@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "choice_selections": [
+                    {
+                        "id": "11",
+                        "name": "ESTJ"
+                    }
+                ],
+                "section_id": "sec_4",
+                "section_name": "Basics"
+            },
+            {
+                "id": "de_3",
+                "name": "Pets",
+                "prompt": "Do you have any pets?",
+                "type": "single_selection_set",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/pets@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/pets@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/pets@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/pets@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "choice_selections": [
+                    {
+                        "id": "2",
+                        "name": "Cat"
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle"
+            },
+            {
+                "id": "de_22",
+                "name": "Drinking",
+                "prompt": "How often do you drink?",
+                "type": "single_selection_set",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/drink_of_choice@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "choice_selections": [
+                    {
+                        "id": "12",
+                        "name": "Socially on weekends"
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle"
+            },
+            {
+                "id": "de_10",
+                "name": "Workout",
+                "prompt": "Do you workout?",
+                "type": "single_selection_set",
+                "icon_url": "https://static-assets.gotinder.com/icons/descriptors/workout@3x.png",
+                "icon_urls": [
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/workout@1x.png",
+                        "quality": "1x",
+                        "width": 22,
+                        "height": 22
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/workout@2x.png",
+                        "quality": "2x",
+                        "width": 44,
+                        "height": 44
+                    },
+                    {
+                        "url": "https://static-assets.gotinder.com/icons/descriptors/workout@3x.png",
+                        "quality": "3x",
+                        "width": 66,
+                        "height": 66
+                    }
+                ],
+                "choice_selections": [
+                    {
+                        "id": "4",
+                        "name": "Everyday"
+                    }
+                ],
+                "section_id": "sec_1",
+                "section_name": "Lifestyle"
+            }
+        ]
+    },
+    "instagram": {
+        "last_fetch_time": "2023-03-20T03:31:31.771Z",
+        "completed_initial_fetch": true,
+        "photos": [],
+        "media_count": 3
+    },
+    "facebook": {
+        "common_connections": [],
+        "connection_count": 0,
+        "common_interests": []
+    },
+    "spotify": {
+        "spotify_connected": false,
+        "spotify_top_artists": [],
+        "spotify_theme_track": {
+            "id": "2MF4HtZHBoUliOi9nOAbS0",
+            "name": "Purity (feat. Frank Ocean)",
+            "album": {
+                "id": "3MATDdrpHmQCmuOcozZjDa",
+                "name": "TESTING",
+                "images": [
+                    {
+                        "height": 640,
+                        "width": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b"
+                    },
+                    {
+                        "height": 300,
+                        "width": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029feadc48ab0661e9b3a9170b"
+                    },
+                    {
+                        "height": 64,
+                        "width": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519feadc48ab0661e9b3a9170b"
+                    }
+                ]
+            },
+            "artists": [
+                {
+                    "id": "13ubrt8QOOCPljQ2FL1Kca",
+                    "name": "A$AP Rocky"
+                },
+                {
+                    "id": "2h93pZq0e7k5yf4dywlkpM",
+                    "name": "Frank Ocean"
+                }
+            ],
+            "preview_url": "https://p.scdn.co/mp3-preview/c0862a1da7b10728ac3bdcbc320da03113f19ea3?cid=b06a803d686e4612bdc074e786e94062",
+            "uri": "spotify:track:2MF4HtZHBoUliOi9nOAbS0"
+        }
+    },
+    "distance_mi": 4,
+    "content_hash": "vXPSLF0nc5RcgOH5McVkFx4ukqc3aHkiPUzjFltE9IY",
+    "s_number": 5573700880534831,
+    "teaser": {
+        "type": "jobPosition",
+        "string": "Circuit board manufacturer at Pureffect"
+    },
+    "teasers": [
+        {
+            "type": "jobPosition",
+            "string": "Circuit board manufacturer at Pureffect"
+        }
+    ],
+    "experiment_info": {
+        "user_interests": {
+            "selected_interests": [
+                {
+                    "id": "it_2155",
+                    "name": "Self Care",
+                    "is_common": false
+                },
+                {
+                    "id": "it_2035",
+                    "name": "Sushi",
+                    "is_common": false
+                },
+                {
+                    "id": "it_2272",
+                    "name": "Gym",
+                    "is_common": true
+                },
+                {
+                    "id": "it_2080",
+                    "name": "Horror Movies",
+                    "is_common": false
+                }
+            ]
+        }
+    },
+    "is_superlike_upsell": true,
+    "tappy_content": [
+        {
+            "content": [
+                {
+                    "id": "distance",
+                    "type": "text_v1"
+                }
+            ],
+            "name_inline_features": [
+                {
+                    "id": "selfie_verified"
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "id": "bio"
+                }
+            ],
+            "name_inline_features": [
+                {
+                    "id": "selfie_verified"
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "id": "passions"
+                }
+            ],
+            "name_inline_features": [
+                {
+                    "id": "selfie_verified"
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "id": "descriptors"
+                }
+            ],
+            "name_inline_features": [
+                {
+                    "id": "selfie_verified"
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "id": "job"
+                }
+            ],
+            "name_inline_features": [
+                {
+                    "id": "selfie_verified"
+                }
+            ]
+        },
+        {
+            "content": [
+                {
+                    "id": "anthem"
+                }
+            ],
+            "name_inline_features": [
+                {
+                    "id": "selfie_verified"
+                }
+            ]
+        }
+    ],
+    "ui_configuration": {
+        "id_to_component_map": {
+            "distance": {
+                "text_v1": {
+                    "content": "4 miles away",
+                    "icon": {
+                        "local_asset": "distance",
+                        "style": "identity_v1"
+                    },
+                    "style": "identity_v1"
+                }
+            }
+        }
+    }
+}

@@ -1,3 +1,4 @@
+
 from langchain.agents import Tool
 from langchain.memory import ConversationBufferMemory
 from langchain.chat_models import ChatOpenAI
@@ -17,9 +18,16 @@ def chat(input: str):
     return agent_chain.run(input=input)
 
 seed_prompt = """
-I want you to act as if you are an AI assistant, with expertise in various fields.
+I want you to act as if you are an AI assistant
 """
 chat(seed_prompt)
 
-response = chat("What is the capital of France?")
-print(response)
+def run_chat():
+    print("running function")
+    user_input = input("You: ")
+    response = chat(user_input)
+    print(response)
+    run_chat()
+
+
+run_chat()
